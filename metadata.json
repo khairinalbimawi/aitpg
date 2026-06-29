@@ -1,0 +1,6 @@
+{
+  "name": "Asisten TPG SMKPP",
+  "description": "Asisten Chat yang berfokus kepada Tunjangan Profesi Guru khusus untuk SMKPP Negeri Bima",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

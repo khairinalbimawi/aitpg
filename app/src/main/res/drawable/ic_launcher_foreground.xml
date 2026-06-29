@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="66dp"
+        android:height="66dp"
+        android:gravity="center">
+        <vector
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportWidth="24.0"
+            android:viewportHeight="24.0"
+            android:tint="#FFFFFF">
+            <!-- ic_school -->
+            <path
+                android:fillColor="#FFFFFFFF"
+                android:pathData="M12,3L1,9l4,2.18v6L12,21l7,-3.82v-6l2.12,-1.15V17h2V9L12,3zM12,18.72l-5,-2.73v-5.06l5,2.73l5,-2.73v5.06L12,18.72z"/>
+        </vector>
+    </item>
+</layer-list>
